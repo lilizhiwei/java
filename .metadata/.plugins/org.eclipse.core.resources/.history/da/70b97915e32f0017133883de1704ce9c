@@ -1,0 +1,10 @@
+package java1;
+
+
+public class Puppy{
+   int puppyAge;
+   puppyAge = 1;
+   Puppy myPuppy = new puppyAge;
+   System.out.println("小狗的名字是 : " + puppyAge );
+}
+
