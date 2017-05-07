@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Users\Administrator\java\.git">
+			<item value="false"/>
+			<item value="lizhiwei &lt;1548790965@qq.com&gt;"/>
+			<item value="上传代码&#x0D;&#x0A;&#x0D;&#x0A;Signed-off-by: lizhiwei &lt;1548790965@qq.com&gt;"/>
+			<item value="lizhiwei &lt;1548790965@qq.com&gt;"/>
+			<item value="b2c709b5f06e8b252bb57e1d76b8f91b997eedba"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item value="233,666" key="STAGING_SASH_FORM_WEIGHT"/>
+		<item value="false" key="sortItemState"/>
+		<item value="200,200" key="HORIZONTAL_SASH_FORM_WEIGHT"/>
+	</section>
+</section>
