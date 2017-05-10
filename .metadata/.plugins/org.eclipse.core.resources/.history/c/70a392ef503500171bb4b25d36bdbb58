@@ -1,0 +1,22 @@
+package java2;
+
+
+public class SuperDemo {
+    public static void main(String []args) {
+        new Dog().showMessage();
+    }
+}
+ 
+
+class Animal{
+    void go(){
+        System.out.println("animal go");
+    }
+}
+
+class Dog extends Animal{
+	public void showMessage() {
+        super.go();
+    }
+}
+
